@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "thefrozenstate.progamer.me",
-    "port": ,
+    "port": 45732,
     "version": "1.20.1",
     "try-creative": false
   },
